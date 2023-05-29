@@ -1,0 +1,23 @@
+
+
+.essential {
+    padding: 30px; 
+}
+
+#email, #user, #pw {
+    width: 250px;
+    text-align: right;
+}
+
+.submit {
+    width: 100px;
+    margin-left: 350px;
+}
+
+th,td {
+    border: 1px solid rgb(122, 119, 119);
+}
+
+em {
+    font-size: 13.5px;
+}
